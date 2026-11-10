@@ -1,0 +1,21 @@
+{
+  "name": "Automated testing JavaScript",
+  "version": "1.0.0",
+  "description": "Repository for Unit, UI, and API testing home tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofiia555/at_javascript.git"
+  },
+  "keywords": [],
+  "author": "Sofiia Fedortsova <fedosofi262@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sofiia555/at_javascript/issues"
+  },
+  "homepage": "https://github.com/Sofiia555/at_javascript#readme"
+}
